@@ -1,11 +1,9 @@
 
 import { Container, Content } from './styles';
 
-interface HeaderProps {
-    onOpenNewTransactionModal: () => void;
-}
 
-export default function Header({ onOpenNewTransactionModal }: HeaderProps) {
+
+export default function Header() {
     return (
         <Container>
             <Content>
