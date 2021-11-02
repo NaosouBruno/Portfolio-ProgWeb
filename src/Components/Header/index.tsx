@@ -1,6 +1,6 @@
 import React from 'react';
 import { Container, Content } from './styles';
-import logoImg from '../../assets/Poupancinha.svg';
+import minhaFoto from '../../assets/eu.jpeg';
 interface HeaderProps {
     onOpenNewTransactionModal: () => void;
 }
@@ -9,10 +9,17 @@ export default function Header({ onOpenNewTransactionModal }: HeaderProps) {
     return (
         <Container>
             <Content>
-                <img src={logoImg} alt="Poupancinha" />
-                <button type="button" onClick={onOpenNewTransactionModal}>
+                <img className="minhaFoto" src={minhaFoto} alt="Poupancinha" />
+                <div className="i-title-wrapper">
+              <div className="i-title-item">Desenvolvedor Front End</div>
+              <div className="i-title-item">Prestativo</div>
+              <div className="i-title-item">Editor de Videos</div>
+              <div className="i-title-item">AINDA DESENVOLVENDO</div>
+              <div className="i-title-item">NOVAS HABILIDADES</div>
+            </div>
+               {/*  <button type="button" onClick={onOpenNewTransactionModal}>
                     Nova Transação
-                </button>
+                </button> */}
             </Content>
         </Container>
     );
