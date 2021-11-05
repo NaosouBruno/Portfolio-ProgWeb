@@ -1,5 +1,5 @@
 import Dashboard from './Components/Dashboard';
-import Header from './Components/Header';
+import MinhasHabi from './Components/MinhasHabi';
 import { GlobalStyle } from './styles/global';
 function App() {
     
@@ -7,7 +7,7 @@ function App() {
     return (
         <>
             <GlobalStyle />
-            <Header/>
+            <MinhasHabi />
             <Dashboard />
             
         </>

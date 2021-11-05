@@ -28,7 +28,6 @@ export default function Header() {
                             </p>
                         </div>
                     </div>
-                    {/* <img className="minhaFoto" src={minhaFoto} alt="Poupancinha" /> */}
                 </div>
             </Content>
         </Container>

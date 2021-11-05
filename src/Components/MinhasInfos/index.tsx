@@ -25,13 +25,7 @@ export default function Sumario() {
         <p className="a-desc">
           Atualmente estou empenhado em me tornar Desenvolvedor Front End, e
           ainda não adotei um framework para focar, ainda em dúvida entre VueJS 
-          ou React, adoraria dominar os dois. Algumas habilidades minhas são:
-          
-        </p>
-        <br></br>
-
-        <p className="a-desc">
-         FAZER UMA LISTA AQUI           
+          ou React, adoraria dominar os dois.
         </p>
       </div>
     </div>
