@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/portfolio-progWeb/static/js/main.bbd795a3.chunk.js",
+    "main.js.map": "/portfolio-progWeb/static/js/main.bbd795a3.chunk.js.map",
+    "runtime-main.js": "/portfolio-progWeb/static/js/runtime-main.bc5c3476.js",
+    "runtime-main.js.map": "/portfolio-progWeb/static/js/runtime-main.bc5c3476.js.map",
+    "static/js/2.73eb4eb9.chunk.js": "/portfolio-progWeb/static/js/2.73eb4eb9.chunk.js",
+    "static/js/2.73eb4eb9.chunk.js.map": "/portfolio-progWeb/static/js/2.73eb4eb9.chunk.js.map",
+    "index.html": "/portfolio-progWeb/index.html",
+    "static/js/2.73eb4eb9.chunk.js.LICENSE.txt": "/portfolio-progWeb/static/js/2.73eb4eb9.chunk.js.LICENSE.txt",
+    "static/media/eu.f5f427f7.jpeg": "/portfolio-progWeb/static/media/eu.f5f427f7.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bc5c3476.js",
+    "static/js/2.73eb4eb9.chunk.js",
+    "static/js/main.bbd795a3.chunk.js"
+  ]
+}
